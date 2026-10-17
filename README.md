@@ -3,6 +3,12 @@
 Tarea de la Clase 11 - Curso de Algoritmos  
 Universidad Mariano Gálvez - Centro Universitario de Chiquimulilla
 
+VIDEO:
+https://drive.google.com/file/d/1lNoEdfLibOMM7_cPKxKVAvbzKgfH2FUG/view?usp=drive_link
+
+Autor: Jeison Hair Donis Martinez
+
+
 ## ¿Qué hace este programa?
 
 Es un programa de consola para registrar y listar gastos.  
@@ -54,7 +60,6 @@ Todas las consultas a la base de datos van con parámetros para evitar problemas
 ```csharp
 Server=(localdb)\ProjectModels;Database=GastosDB;Trusted_Connection=True;TrustServerCertificate=True;
 
-VIDEO:
-https://drive.google.com/file/d/1lNoEdfLibOMM7_cPKxKVAvbzKgfH2FUG/view?usp=drive_link
 
-Autor: Jeison Hair Donis Martinez
+
+
